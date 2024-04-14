@@ -1,0 +1,16 @@
+{
+    "name": "cacique/test-project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Cacique\\TestProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergey Kosoverov",
+            "email": "sergey.kosoverov@gmail.com"
+        }
+    ],
+    "require": {}
+}
